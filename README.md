@@ -1,2 +1,0 @@
-# wedding-planner
-1
